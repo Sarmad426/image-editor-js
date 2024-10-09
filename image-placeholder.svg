@@ -6,7 +6,7 @@
     </linearGradient>
   </defs>
   <g id="Group_395" data-name="Group 395" transform="translate(-561 -195)">
-    <path id="Path_134" data-name="Path 134" d="M5,0H432a5,5,0,0,1,5,5V311a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(561 195)" fill="#f2f2f2"/>
+    <path id="Path_134" data-name="Path 134" d="M5,0H432a5,5,0,0,1,5,5V311a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(561 195)" fill="#555"/>
     <g id="layer1" transform="translate(292.867 165.465)" opacity="0.55">
       <path id="rect1017" d="M7.014,0H168.471a7.014,7.014,0,0,1,7.014,7.014v65a7.014,7.014,0,0,1-7.014,7.014H7.014A7.014,7.014,0,0,1,0,72.01v-65A7.014,7.014,0,0,1,7.014,0Z" transform="translate(399.134 122.791)" fill="#f2f2f2"/>
       <g id="g1015" transform="translate(440.421 122.536)">
@@ -25,6 +25,6 @@
         </g>
       </g>
     </g>
-    <text id="text1021" transform="translate(780 411.768)" fill="#bfbfbf" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-85.488" y="0">Choose Image to Edit</tspan></text>
+    <text id="text1021" transform="translate(780 411.768)" fill="#bfbfbf" font-size="16" font-family="Poppins-Regular, Poppins, system-ui"><tspan x="-85.488" y="0">Choose Image to Edit</tspan></text>
   </g>
 </svg>
