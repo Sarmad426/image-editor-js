@@ -155,31 +155,3 @@ resetFilterBtn.addEventListener("click", resetFilter);
 saveImgBtn.addEventListener("click", saveImage);
 fileInput.addEventListener("change", loadImage);
 chooseImgBtn.addEventListener("click", () => fileInput.click());
-
-// Drag and drop functionality
-
-// const dropZone = document.getElementById("drop-zone");
-
-// dropZone.addEventListener("dragover", (event) => {
-//   event.preventDefault();
-//   dropZone.classList.add("dragover");
-// });
-
-// dropZone.addEventListener("dragleave", () => {
-//   dropZone.classList.remove("dragover");
-// });
-
-// dropZone.addEventListener("drop", (event) => {
-//   event.preventDefault();
-//   dropZone.classList.remove("dragover");
-
-//   const files = event.dataTransfer.files;
-//   for (const file of files) {
-//     if (file.type.startsWith("image/")) {
-//       const img = document.createElement("img");
-//       img.src = URL.createObjectURL(file);
-//       dropZone.innerHTML = "";
-//       dropZone.appendChild(img);
-//     }
-//   }
-// });
