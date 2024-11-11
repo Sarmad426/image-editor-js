@@ -16,7 +16,8 @@ nav {
   .logo {
     font-size: 2.25rem;
     line-height: 2.5rem;
-    font-weight: 700;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
     .span1 {
       background-color: #10b981;
       --tw-bg-opacity: 1;
@@ -27,8 +28,6 @@ nav {
     .span2 {
       --tw-text-opacity: 1;
       color: #10b981;
-      font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-        "Lucida Sans", Arial, sans-serif;
     }
   }
 }
