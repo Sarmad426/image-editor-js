@@ -1,8 +1,8 @@
-# Image Editor
+# Snap Edit
 
-This is an image editor built with **HTML**, **CSS** and **JAVASCRIPT**. It is a simple image editor with essential editing features.
+Snap edit is a simple web-based image editor built with HTML, CSS and JavaScript. It is a simple image editor with essential editing features.
 
-Check it out. <https://seboys-image-editor.netlify.app>
+Check it out. <https://snap-edit.netlify.app/>
 
 ## Features
 
