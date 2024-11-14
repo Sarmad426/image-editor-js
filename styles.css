@@ -19,7 +19,7 @@ nav {
     font-weight: 600;
     font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
     .span1 {
-      background-color: #10b981;
+      background-color: #5372f0;
       --tw-bg-opacity: 1;
       padding: 10px;
       border-top-right-radius: 1.5rem;
@@ -27,7 +27,7 @@ nav {
     }
     .span2 {
       --tw-text-opacity: 1;
-      color: #10b981;
+      color: #5372f0;
     }
   }
 }
