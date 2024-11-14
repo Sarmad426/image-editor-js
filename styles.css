@@ -1,3 +1,7 @@
+:root {
+  --primary-color: #5372f0;
+}
+
 /* Import Google font - Poppins */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 * {
@@ -19,7 +23,7 @@ nav {
     font-weight: 600;
     font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
     .span1 {
-      background-color: #5372f0;
+      background-color: var(--primary-color);
       --tw-bg-opacity: 1;
       padding: 10px;
       border-top-right-radius: 1.5rem;
@@ -27,7 +31,7 @@ nav {
     }
     .span2 {
       --tw-text-opacity: 1;
-      color: #5372f0;
+      color: var(--primary-color);
     }
   }
 }
@@ -100,8 +104,8 @@ body {
 }
 .filter button.active {
   color: #fff;
-  border-color: #5372f0;
-  background: #5372f0;
+  border-color: var(--primary-color);
+  background: var(--primary-color);
 }
 .filter .slider {
   margin-top: 12px;
@@ -115,7 +119,7 @@ body {
 .filter .slider input {
   width: 100%;
   height: 5px;
-  accent-color: #5372f0;
+  accent-color: var(--primary-color);
 }
 .editor-panel .rotate {
   margin-top: 17px;
@@ -132,8 +136,8 @@ body {
 }
 .rotate .options button:active {
   color: #fff;
-  background: #5372f0;
-  border-color: #5372f0;
+  background: var(--primary-color);
+  border-color: var(--primary-color);
 }
 .wrapper .preview-img {
   flex-grow: 1;
@@ -177,8 +181,8 @@ body {
 }
 .controls .save-img {
   margin-left: 5px;
-  background: #5372f0;
-  border: 1px solid #5372f0;
+  background: var(--primary-color);
+  border: 1px solid var(--primary-color);
 }
 
 @media screen and (max-width: 760px) {
